@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	helloworld.Hello
+	helloworld.Hello()
 
 }
