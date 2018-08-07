@@ -1,10 +1,11 @@
-package main
+package helloworld
 
 import (
 	"fmt"
 )
 
-func main() {
+//say hello
+func Hello() {
 
 	fmt.Println("Hello World!")
 
